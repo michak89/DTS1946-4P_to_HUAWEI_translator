@@ -1,4 +1,6 @@
-# DTS1946-4P_to_HUAWEI_translator | Forked from salakrzy/DTSU666_CHINT_to_HUAWEI_translator
+# DTS1946-4P_to_HUAWEI_translator
+# Forked from salakrzy/DTSU666_CHINT_to_HUAWEI_translator
+
 This project uses ESP32 to translate MODBUS messages of DTS1946-4P Energy Meter into HUAWEI DTSU666H format.
 This project translates the DTS1946-4P Power Meter registers addreses to Huawei DTSU666H Power Meter addreses.
 
